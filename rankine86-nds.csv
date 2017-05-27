@@ -1,0 +1,14 @@
+NAME,NID,p,t,x
+Main Steam,0,8,480,
+1st Extraction Steam,1,2,,
+Outlet Steam of HP,2,0.7,,
+Inlet Steam of LP,3,,440,
+2nd Extraction Steam,4,0.3,,
+Outlet Steam of LP,5,0.008,,
+Condenser Water,6,,,0
+Outlet of 1st Pump,7,0.3,,
+Inlet of 2nd Pump,8,0.3,,0
+Outlet of 2nd Pump,9,8,,
+Main Feedwater,10,8,205,
+Steam Before Trap,11,2,,0
+Water After Trap,12,0.3,,
